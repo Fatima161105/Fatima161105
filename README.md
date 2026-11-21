@@ -63,4 +63,6 @@
 <img src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%20%C2%B7%20MAPE-FF5A5F?style=flat-square&labelColor=080D1A" alt="Forecast" />
 </div>
 
-
+ ----
+ 
+**МОИ ПРОЕКТЫ** 👇
