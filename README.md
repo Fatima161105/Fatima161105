@@ -1,6 +1,3 @@
-<div align="center">
-<img src="assets/banner.svg" width="100%" alt="Фотима Якубова — Data / BI Analyst" />
-</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=660&height=46&lines=Data+%2F+BI+Analyst;SQL+%C2%B7+CTE+%C2%B7+Window+Functions;Power+BI+%C2%B7+DAX+%C2%B7+Star+Schema;Superset+%C2%B7+Metabase+%C2%B7+DataLens;Excel+%C2%B7+Power+Query+%C2%B7+Forecast;RFM+%C2%B7+ABC%2FXYZ+%C2%B7+Unit+Economics" alt="Typing SVG" />
@@ -22,9 +19,6 @@
 
 - ⚡ Закрываю путь от выгрузки и проверки качества данных до выводов, по которым руководитель принимает решение.
 - 🔍 ABC/XYZ-анализ ассортимента, RFM-сегментация клиентов, юнит-экономика, расчёт маркетинговых метрик (CAC, CPL, LTV, ROMI, ROI), анализ динамики и структуры выручки, сезонность, средний чек и доли сегментов.
-- 🎓 УрФУ, **Программная инженерия**. Профпереподготовка на BI-аналитика, летняя школа A/B-тестов, математика для ML
-- 🌍 Русский родной, English A2: читаю документацию без переводчика
-
 ---
 
 ### 🧰 Стек
