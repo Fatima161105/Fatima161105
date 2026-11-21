@@ -7,7 +7,7 @@
 <a href="https://t.me/YaFatti"><img src="https://img.shields.io/badge/Telegram-@YaFatti-22D3EE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=080D1A" alt="Telegram" /></a>
 <a href="mailto:yafatti1611@gmail.com"><img src="https://img.shields.io/badge/Email-yafatti1611-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080D1A" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Екатеринбург-UTC%2B5-F5A524?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=080D1A" alt="Екатеринбург" />
-<img src="https://img.shields.io/badge/Open%20to%20work-Junior%20Analyst-39FF88?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=080D1A" alt="Open to work" />
+<img src="https://img.shields.io/badge/Open%20to%20work-Junior+%20Analyst-39FF88?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=080D1A" alt="Open to work" />
 <img src="https://komarev.com/ghpvc/?username=Fatima161105&label=Views&color=FF3D8B&style=for-the-badge&labelColor=080D1A" alt="Views" />
 </div>
 
